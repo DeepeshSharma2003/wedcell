@@ -1,0 +1,56 @@
+
+.contcrs{
+    text-align: center;
+    width: 15rem;
+    border: 2px solid rgb(255, 0, 191);
+    height: 30rem;
+    margin-top: 5rem;
+}
+
+.contcrs:hover{
+    border: 2px solid red;
+}
+
+.crsimg img{
+    height: 18rem;
+    width: 15rem;
+}
+
+
+.coursebutton{
+    display: inline-block;
+    outline: 0;
+    appearance: none;
+    padding: 0px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: rgb(249, 251, 250);
+    border: 1px solid rgb(155, 137, 153);
+    box-shadow: rgb(243, 1, 251) 0px 1px 2px;
+    color: rgb(247, 112, 231);
+    font-size: 14px;
+    font-weight: 400;
+    height: 36px;
+    width: 10em;
+    transition: all 50ms 0s;
+    margin-top: 1.5rem;
+}
+
+.coursebutton:hover{
+    color: rgb(255, 10, 10);
+    background-color: rgb(244, 237, 241);
+    border: 0.1px solid rgba(196, 21, 30, 0.973);
+}
+
+.crses ul{
+    display: flex;
+    list-style: none;
+justify-content: space-evenly;
+padding: 0px;
+}
+
+.courses{
+    width: 100%;
+    margin-bottom: 8rem;
+  }

@@ -1,0 +1,56 @@
+.happ{
+display: flex;
+justify-content: center;
+}
+
+/* .txt{
+
+} */
+
+.gbtn{
+    margin-top: 5rem;
+    margin-left: -2px;
+    padding: 0px 0px;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+.gbtn:hover{
+    border-color: pink;
+    border-radius: 10px;
+    transform: scale(1.2);
+}
+
+.abtn:hover{
+    border-color: pink;
+    border-radius: 10px;
+    transform: scale(1.2);
+}
+
+.gbtn img{
+    height: 3rem;
+    width: 8rem;
+}
+
+.abtn{
+    margin-left: 3rem;
+    padding: 0px 0px;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+.abtn img{
+    height: 3rem;
+    width: 8rem;
+}
+
+.appimg img{
+    width: 33rem;
+    height: 33rem;
+}
+
+.txt p{
+    width: 26rem;
+    padding-right: 4rem;
+    margin: -4px;
+}

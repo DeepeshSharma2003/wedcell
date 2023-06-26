@@ -1,0 +1,37 @@
+.himgfwa img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.himgfwa{
+    display: flex;
+    text-align: center;
+}
+
+.conthfwa {
+    text-align: center;
+    margin-top: 3rem;
+    height: 10rem;
+    width: 21rem;
+    transition: 0.1s;
+}
+
+.conthfwa:hover{
+    border: 2px solid red;
+    transform: scale(1.2);
+}
+
+.phfwa p {
+    margin: 0;
+    padding-left: 0rem;
+    padding-right: 0rem;
+}
+
+.features ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 3.5rem;
+    padding-left: 0px;
+  }

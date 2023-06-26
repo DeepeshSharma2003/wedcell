@@ -1,0 +1,35 @@
+.himg img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.himg{
+    display: flex;
+}
+
+.conthwcs {
+    text-align: center;
+    border: 2px solid pink;
+    margin-top: 3rem;
+    height: 20rem;
+    width: 21rem;
+}
+
+.conthwcs:hover{
+    border: 2px solid red;
+}
+
+.phwcs p {
+    margin: 0;
+    padding-left: 4rem;
+    padding-right: 1rem;
+}
+
+.chooseus ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    margin-top: 2.5rem;
+    padding-left: 0px;
+  }

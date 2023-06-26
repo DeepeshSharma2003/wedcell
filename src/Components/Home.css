@@ -1,0 +1,67 @@
+
+.hcourse{
+    width: 100%;
+    margin-top: 2rem;
+}
+.hcourse h1{
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    margin-top: -33px;
+    padding-top: 3rem;
+    color: #16697A;
+}
+
+.hco{
+    width: 100%;
+    margin-top: 6rem;
+}
+
+.hwcs{
+    width: 100%;
+    margin-top: 6rem;
+}
+
+.wfs{
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.ha{
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+}
+
+.ha h1{
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+
+.ftrsbtn {
+    display: inline-block;
+    outline: 0;
+    appearance: none;
+    padding: 0px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: rgb(249, 251, 250);
+    border: 1px solid rgb(155, 137, 153);
+    box-shadow: rgb(243, 1, 251) 0px 1px 2px;
+    color: rgb(247, 112, 231);
+    font-size: 14px;
+    font-weight: 400;
+    height: 36px;
+    width: 13em;
+    transition: all 50ms 0s;
+    margin-top: 6rem;
+  }
+  .ftrsbtn:hover {
+    color: rgb(255, 10, 10);
+    background-color: rgb(244, 237, 241);
+    border: 0.1px solid rgba(196, 21, 30, 0.973);
+  }
+
+  .hfwa{
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+  }

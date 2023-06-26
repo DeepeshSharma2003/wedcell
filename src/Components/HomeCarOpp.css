@@ -1,0 +1,31 @@
+.conthco {
+  width: 20rem;
+  height: 18rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: 2px solid pink;
+  text-align: center;
+  /* transition: 0.1ms; */
+}
+
+.conthco:hover {
+  border: 2px solid red;
+  /* transform: scale(1.1); */
+}
+
+.conthco img {
+  height: 3rem;
+  width: 5rem;
+  padding: 18px 0px;
+}
+
+.career ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  margin-top: 2.5rem;
+  padding-left: 0px;
+}
